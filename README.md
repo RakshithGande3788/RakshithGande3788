@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RakshithGande3788
-- 👀 I’m interested in Software Devlopment
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning to create web application 
 
 <!---
